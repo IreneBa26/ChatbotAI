@@ -1,0 +1,341 @@
+[
+  {
+     "classe": "Sintomi preoccupanti",
+     "domande": [
+      "Ho la febbre a 39, vado in Pronto Soccorso?",
+      "Ho la tosse da molti giorni, devo chiamare?",
+      "Non mi sento molto bene, credo di avere l'influenza. Da molti giorni ho la tosse e respiro male",
+      "Non riesco a respirare tutto il giorno, ho come un peso sui polmoni."
+       ],
+     "risposte": [
+        "Contatta immediatamente il tuo medico di famiglia o chiama il numero 1500." 
+       ]
+ },
+ {
+     "classe": "Protezione coronavirus",
+     "domande": [
+      "Cosa posso fare per proteggermi?",
+      "Quali sono i protocolli per la protezione individuale?",
+      "Uso e caratteristiche delle mascherine e dei dispositivi di protezione",
+      "I comuni medicinali e farmaci sono efficaci contro il Covid19?"
+       ],
+     "risposte": [
+        "Misure da adottare: lavarsi spesso le mani, mantenere le distanze di 1 metro, non toccarsi naso,occhi e bocca con le mani. Non assumere farmaci antibiotici e antivirali, se non prescritti dal medico. Utilizzare protezioni delle vie respiratorie (mascherine) applicandole correttamente su naso e bocca. Le mascherine fai da te sono efficaci solo le provviste di filtro idoneo"
+       ]
+ },
+ {
+     "classe": "Trasmissione coronavirus",
+     "domande": [
+      "Come si trasmette il Coronavirus?",
+      "Cosa si può fare per contrastare la trasmissione o il contagio del Coronavirus?",
+      "Il Coronavirus può essere trasmesso dagli alimenti o dall'acqua?",
+      "Come si contrae la malattia?"
+       ],
+     "risposte": [
+        "Il Coronavirus è un virus respiratorio che si diffonde principalmente attraverso le goccioline del respiro delle persone infette (saliva,tosse,starnuti, contatti diretti personali) oppure toccando con mani cotaminate (non lavate) bocca,naso e occhi. Normalmente le malattie respiratorie non si trasmettono con gli alimenti."
+       ]
+ },
+ {
+     "classe": "Vaccino",
+     "domande": [
+      "Esiste un vaccino per il Coronavirus?",
+      "Ho fatto il vaccino antinfluenzale, sono protetto da Covid19?",
+      "Il vaccino contro la tubercolosi (TBC) protegge da Covid19?", 
+      " È necessario continuare con le normali attività di vaccinazione previste dal calendario vaccinale?",
+      "Esiste una cura per il Coronavirus?"
+       ],
+     "risposte": [
+        "Non esiste ancora un vaccino o una cura ad hoc per il Coronavirus, Essendo una malattia nuova ci vorranno dai 12 ai 18 mesi per svilupparlo. I vaccini esistenti non proteggono da Covid19. L'OMS ha stabilito che è essenziale mantenere le vaccinazioni di routine"
+  	  ]
+ },
+ {
+  "classe": "Viaggiatori",
+     "domande": [
+      "Sono consentiti gli spostamenti tra regioni?",
+      "Sono consentiti gli spostamenti tra stati?",
+      "Posso recarmi in un altro continente?",
+      "Posso spostarmi in quanto turista?"
+       ],
+     "risposte": [
+        "A partire dal 3 giugno sono liberamente consentiti gli spostamenti per qualsiasi ragione, anche per turismo, da e per i seguenti Stati: Unione Europea, stati dell'accordo Schengen, Regno Unito e Irlanda del Nord, Andorra e Principato di Monaco, Città del Vaticano e San Marino. Gli spostamenti non inclusi in questo elenco sono consentiti solo per comprovate esigenze lavorative, di assoluta urgenza o per motivi di salute."
+       ]
+ },
+ {
+  "classe": "Bufale",
+     "domande": [
+      "Il cibo e i prodotti cinesi sono pericolosi?",
+      "Gli animali domestici trasmettono il coronavirus?",
+      "Fare gargarismi con la candeggina può essere utile ad eliminare il virus?",
+      "Bere acqua o bevande calde uccide il virus?"
+       ],
+     "risposte": [
+        "Il coronavirus si contrae prevalentemente per via aerea e non c'è una popolazione più esposta al contagio rispetto ad altre. Gli animali da compagnia non costituiscono veicolo per il virus. Non c'è ancora un vaccino disponibile, l'unica soluzione efficace per contrastare la diffusione è il distanziamento sociale e l'utilizzo di dispositivi di protezione."
+       ]
+ },
+ {
+  "classe": "Genesi covid",
+     "domande": [
+      "Da dove nasce il covid?",
+      "è vero che è un esperimento di laboratorio?",
+      "ho sentito parlare di pipistrelli, cosa c'entrano?"
+       ],
+     "risposte": [
+        "Ad oggi, la fonte di SARS-CoV-2, il coronavirus che provoca COVID-19, non è conosciuta. Le evidenze disponibili suggeriscono che SARS-CoV-2 abbia un’origine animale e che non sia un virus costruito. Molto probabilmente il reservoir ecologico di SARS-CoV-2 risiede nei pipistrelli."
+       ]
+ },
+ {
+  "classe": "Decreto rilancio",
+     "domande": [
+      "Voglio andare in vacanza, c'è qualche convenzione?",
+      "Ho sentito parlare di bonus vacanze, di che cosa si tratta?",
+      "la mia famiglia ha un isee basso, c'è qualche bonus o incentivo?"
+       ],
+     "risposte": [
+     	"Per avere informazioni sul decreto visita la pagina del governo.",
+        "Il bonus vacanze previsto nel decreto rilancio consiste in un contributo per il pagamento dei servizi offerti da alberghi, bed & breakfast e agriturismi italiani nel periodo tra 1 luglio e 31 dicembre 2020. Ha un valore massimo di 500 euro e può essere richiesto da tutte le famiglie con ISEE inferiore a 40mila euro annui."
+       ]
+  },
+  {
+  "classe": "Post-covid",
+     "domande": [
+      "Quali misure di contenimento ha adottato il governo italiano?",
+      "Qual è il corretto stile di vita da mantenere post emergenza?",
+      "Che relazione c'è tra fumo e coronavirus?"
+       ],
+     "risposte": [
+        "Il governo italiano consiglia la riduzione degli spostamenti non necessari (ad esempio attraverso il lavoro da casa- smart working). Le linee guida generali consigliano inoltre uno stile di vita sano (corretta alimentazione e attività fisica) e la riduzione del fumo poichè aumenta la possibilità di finire in terapia intensiva."
+       ]
+ },
+ {
+  "classe": "Gravidanza",
+     "domande": [
+      "Sono incinta, come posso proteggermi dal coronavirus?"
+       ],
+     "risposte": [
+        "Le precauzioni per le donne incinte sono identiche alle precauzioni generali. Lavarsi le mani frequentemente, mantenere 1 metro minimo di distanza e non toccarsi naso, occhi e bocca prima di essersi lavate le mani."
+       ]
+ },
+ {
+  "classe": "Mascherina",
+     "domande": [
+      "Quanto costano le mascherine chirurgiche?",
+      "Come vanno indossate le mascherine?",
+      "Quante volte posso utilizzare una mascherina chirurgica?"
+       ],
+     "risposte": [
+        "Le mascherine chirurgiche (da regolamento) costano 0,50 euro l'una. Sono dispositivi che vanno indossati su bocca e naso contemporaneamente e sono monouso. Il riutilizzo è fortemente sconsigliato poichè potrebbe favorire la trasmissione del virus."
+       ]
+ },
+ {
+  "classe": "Mezzi di trasporto",
+     "domande": [
+      "Devo utilizzare un treno, come mi devo comportare?",
+      "Devo utilizzare un autobus, come mi devo comportare?",
+      "Devo utilizzare un aereo, come mi devo comportare?",
+      "Devo salire in macchina con una persona non convivente, come mi devo comportare?"
+       ],
+     "risposte": [
+        "Gli spostamenti utilizzando mezzi di trasporto sono permessi solo se si è provvisti di mascherina. All'interno del mezzo non è consentito sedersi o sostare a meno di un metro: ad esempio in macchina se non si è conviventi o congiunti si possono occupare solo i sedili posteriori."
+       ]
+ },
+ {
+  "classe": "Contatto",
+     "domande": [
+     "Sono entrato in stretto contatto con una persona infetta, cosa devo fare?",
+     "Un parente o familiare ha contratto la malattia, cosa devo fare?"
+  	 ],
+     "risposte": [
+        "Se sei entrato in contatto con una persona infetta non uscire di casa, cerca di isolarti il più possibile e rivolgiti immediatamente alle autorità locali."
+       ]
+ },
+ {
+  "classe": "Insetti",
+     "domande": [
+      "Le punture di insetto possono trasmettere il coronavirus?",
+      "Le punture di zanzare possono trasmettere il coronavirus?",
+      "Le mosche possono trasmettere il coronavirus?",
+      "Le zecche possono trasmettere il coronavirus?"
+       ],
+     "risposte": [
+        "Ad oggi non esiste alcuna evidenza scientifica di una trasmissione attraverso zecche, zanzare o altri insetti, che invece possono veicolare altri tipi di virus (arbovirus), responsabili di malattie completamente diverse da Covid-19, come ad esempio dengue e febbre gialla."
+       ]
+ },
+ {
+  "classe":"Isolamento domiciliare",
+  "domande": [
+   "Come si effettua un isolamento domiciliare?"
+  	],
+  "risposte": [
+   "La persona con sospetta o accertata infezione COVID-19 deve stare lontana dagli altri familiari, se possibile, in una stanza singola ben ventilata e non deve ricevere visite. I membri della famiglia devono soggiornare in altre stanze o, se non è possibile, mantenere una distanza di almeno 1 metro dalla persona malata e dormire in un letto diverso."   
+  	]
+ },
+ {
+  "classe": "Lavoro",
+     "domande": [
+      "Il datore di lavoro pubblico o privato è tenuto a fornire a tutti i lavoratori la strumentazione necessaria a svolgere la prestazione lavorativa in modalità agile?",
+      "È possibile attivare iniziative di aggiornamento e di formazione in modalità agile? ",
+      "è possibile svolgere il lavoro in modalità smart working?",
+      "Che cos'è lo smart working?"
+       ],
+     "risposte": [
+        "Lo smart working è il lavoro per via telematica ovvero l'utilizzo di dispositivi informatici per svolgere il lavoro non in presenza. L'utilizzo di questa modalità di svolgimento del lavoro è fortemente consigliato, il datore di lavoro è tenuto ad agevolare questa metodologia ma non è tenuto a fornire la strumentazione necessaria." 
+      ]
+ },
+ {
+  "classe": "Persone anziane",
+     "domande": [
+      "Come ci si deve comportare in presenza di persone anziane?",
+      "Frequento spesso le case di riposo, come mi devo comportare?",
+      "Una persona anziana ha più possibilità di ammalarsi?"
+       ],
+     "risposte": [
+        "Le persone anziane e i soggetti con malattie pregresse sono più soggette a sviluppare condizioni mediche gravi. Bisogna seguire le regole standard: mantenere il più possibile le distanze e coprirsi per tutto il tempo dell'incontro bocca e naso con la mascherina. Fornire le persone anziane di tutti gli aiuti possibili (gel a base alcolica, mascherine e linee guida)"
+       ]
+ },
+ {
+  "classe": "Università",
+     "domande": [
+      "Quando riapriranno le università?",
+      "è possibile laurearsi?",
+      "è possibile seguire le lezioni universitarie?",
+      "Rapporto tra università e mondo lavorativo"
+       ],
+     "risposte": [
+        "Attualmente tutte le università sono chiuse, le modalità di erogazione delle lezioni è a discrezione di ogni ateneo. In linea generale si cercherà di utilizzare una modalità ibrida per lo svolgimento delle lezioni: si cercherà di rendere disponibili le lezioni sia per via telematica sia in presenza. è possibile laurearsi in presenza a condizione che vi sia un'adeguata organizzazione degli spazi."
+       ]
+ },
+ {
+  "classe": "Fase 2",
+     "domande": [
+      "Che cos'è la fase 2?",
+      "Quanto dura la fase 2?"
+       ],
+     "risposte": [
+        "La fase 2 indica la seconda fase della convivenza con il virus e dura dal 4 al 18 maggio, lo scopo principale è permettere ai cittadini e alle imprese un ritorno graduale ad una vita normale e garantire le regole per una ripresa economica in sicurezza."
+       ]
+ },
+
+ {
+  "classe": "Cerimonie ed eventi",
+     "domande": [
+      "è possibile svolgere cerimonie religiose?",
+      "Posso andare a messa?",
+      "è possibile organizzare un funerale?",
+      "Cosa prevede il decreto per le manifestazioni?"
+       ],
+     "risposte": [
+        "Le funzioni religiose (messe,funerali, ecc..) con la partecipazione di persone si possono svolgere, purché nel rispetto delle linee guida previste dal Governo. ",
+        "Lo svolgimento delle manifestazioni pubbliche è consentito soltanto in forma statica, a condizione che, nel corso di esse, siano osservate le distanze sociali prescritte e le altre misure di contenimento"
+       ]
+ },
+ {
+  "classe": "Attività motoria",
+     "domande": [
+      "È consentito fare attività motoria o sportiva?",
+      "È possibile andare in palestra/piscina?"
+       ],
+     "risposte": [
+        "Sì, l’attività sportiva o motoria all’aperto è consentita.È obbligatorio rispettare la distanza interpersonale di almeno due metri, se si tratta di attività sportiva, e di un metro, se si tratta di semplice attività motoria. In ogni caso sono vietati gli assembramenti.L'attività sportiva di base e l'attività motoria in genere svolte presso palestre, piscine, centri e circoli sportivi, pubblici e privati, ovvero presso altre strutture ove si svolgono attività dirette al benessere dell'individuo attraverso l'esercizio fisico, sono consentite, nel rispetto delle norme di distanziamento sociale e senza alcun assembramento"
+       ]
+ },
+ {
+  "classe": "OMS",
+     "domande": [
+      "OMS e WHO",
+      "Organizzazione mondiale della Sanità e  World Health Organization"
+       ],
+     "risposte": [
+        "L’Organizzazione Mondiale della Sanità - OMS è l’organismo di indirizzo e coordinamento in materia di salute all’interno del sistema delle Nazioni Unite. ra le altre funzioni, è impegnata a fornire una guida sulle questioni sanitarie globali, indirizzare la ricerca sanitaria, stabilire norme e standard e formulare scelte di politica sanitaria basate sull’evidenza scientifica; inoltre, garantisce assistenza tecnica agli Stati Membri, monitora e valuta le tendenze in ambito sanitario, finanzia la ricerca medica e fornisce aiuti di emergenza in caso di calamità."
+       ]
+ },
+ {
+  "classe": "Statistiche",
+     "domande": [
+      "Esiste qualche report sul coronavirus?",
+      "Esistono statistiche sul coronavirus?",
+      "Monitoraggio malattia",
+      "età deceduti"
+       ],
+     "risposte": [
+        "L'età media delle persone decedute è 80 anni, il 59% erano uomini e il 41% donne. Le regioni con più morti sono state Lombardia (49,8%), Emilia Romagna (12,8%), Piemonte (8,5%) e Veneto (6%)" 
+       ]
+ },
+ {
+  "classe": "Virus e malattia",
+     "domande": [
+      " Che cos'è un coronavirus?",
+      "Cosa è il nuovo coronavirus SARS-CoV-2",
+      "Il nuovo coronavirus è lo stesso della SARS?",
+      "Cosa è la COVID-19?"
+       ],
+     "risposte": [
+       "I Coronavirus sono una vasta famiglia di virus noti per causare malattie che vanno dal comune raffreddore a malattie più gravi come la Sindrome respiratoria mediorientale (MERS) e la Sindrome respiratoria acuta grave (SARS).Il nuovo Coronavirus è un nuovo ceppo di coronavirus che non è stato precedentemente mai identificato nell'uomo, infatti non è lo stesso virus della SARS. " 
+       ]
+ },
+ {
+  "classe": "Bonus mobilità",
+     "domande": [
+      "Che cos'è il bonus mobilità?",
+      "Come posso usufruire del bonus mobilità elettrica?",
+      "Cosa prevede il bonus per l'acquisto di biciclette elettriche, bici e monopattini?"
+       ],
+     "risposte": [
+        "Il buono mobilità è un contributo pari al 60 per cento della spesa sostenuta e, comunque, in misura non superiore a euro 500 per l’acquisto di biciclette, anche a pedalata assistita, nonché veicoli per la mobilità personale a propulsione prevalentemente elettrica"
+      ]
+ },
+ {
+  "classe": "Donazione",
+    "domande": [
+      "è possibile fare una donazione fronteggiare l'emergenza?",
+      "è possibile dare un contibuto in denaro per fronteggiare l'emergenza?",
+      "Vorrei fare un'offerta per fronteggiare l'emergenza, a chi posso rivolgermi?"
+    ],
+    "risposte": [
+      "Il sito della Protezione civile ha aperto un conto corrente bancario dedicato all’emergenza da Nuovo coronavirus.Altrimenti puoi fare una donazione al fondo di sostegno economico dedicato ai familiari dei sanitari deceduti per fronteggiare l’emergenza Covid-19 istituito dalla Protezione Civile"
+    ]
+ },
+ {
+  "classe":"Smaltimento rifiuti",
+    "domande": [
+      "Come devono essere smaltiti mascherine, guanti e altri rifiuti?",
+      "dove si buttano le mascherine?"
+    ],
+    "risposte": [
+      "Nelle abitazioni in cui sono presenti persone positive tutti i rifiuti domestici, indipendentemente dalla loro natura, devono essere considerati indifferenziati. Nelle abitazioni in cui, invece, non sono presenti persone positive non è necessario interrompere la raccolta differenziata. Fazzoletti usati,mascherine e guanti devono comunque essere smaltiti nell'indifferenziata"
+    ]
+ },
+ {
+  "classe":"Superfici e igiene",
+  "domande": [
+    "Quanto tempo sopravvive il nuovo Coronavirus sulle superfici?",
+    " È necessaria una pulizia delle strade con disinfettanti (es. ipoclorito di sodio)?",
+    "Pulizia delle superfici, sanificazione, disinfezione, igienizzazione"
+  ],
+  "risposte": [
+  	"Il tempo di sopravvivenza del virus sulle superfici varia a seconda del tipo di superficie, ad esempio sulla carta resiste alcune ore, sulla plastica o sull'acciaio fino a diversi giorni. L’utilizzo di semplici disinfettanti è in grado di uccidere il virus annullando la sua capacità di infettare le persone, per esempio disinfettanti contenenti alcol (etanolo) o ipoclorito di sodio (candeggina/varechina). "
+  ]
+ },
+ {
+  "classe":"Canali di comunicazione",
+  "domande": [
+   "Quali canali di comunicazione posso utilizzare per tenermi in aggiornamento?",
+   "Social"
+  ],
+  "risposte": [
+   "La maggior parte degli aggiornamenti locali e mondiali, può essere seguita sui principali canali di comunicazione ad esempio Facebook, Twitter, Instagram e sito del Ministero della Salute. Dal 15 aprile sono anche attivi gli account Instagram e Telegram del Ministero della Salute. Le informative del Presidente Conte sono trasmesse a reti unificate in televisione."
+  ]
+ },
+ {
+  "classe":"Psicologia",
+  "domande": [
+   "ho bisogno di un supporto psicologico, a chi mi devo rivolgere?", 
+   "ho bisogno di uno psicologo, a chi mi posso rivolgere?", 
+   "il periodo di isolamento mi ha causato ripercussioni psicologiche, cosa posso fare?",
+   "supporto emotivo e mentale",
+   "stress, ansia, confusione, solitudine,nervosismo, paura"
+  ],
+  "risposte": [
+  	"L’emergenza Covid-19 sta mettendo a dura prova la tenuta psicologica delle persone alle prese con una situazione inedita nella sua drammaticità.Per queste ragioni, dal  27 aprile è operativo il numero verde di supporto psicologico 800.833.833, attivato dal Ministero della Salute e dalla Protezione Civile, con il sostegno tecnologico offerto gratuitamente da TIM.Tutti i giorni, dalle ore 8 alle 24, professionisti specializzati, psicologi, psicoterapeuti e psicoanalisti, risponderanno al telefono alle richieste di aiuto gratuitamente."
+  ]
+ }
+]
