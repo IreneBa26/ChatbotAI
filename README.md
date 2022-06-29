@@ -36,10 +36,10 @@ Covid19 Chatbot based on Artificial Intelligence and Natural Language Processing
 
 ### Project Folder:
 
-    - data.json: Database origin file
-    - net_usage.py: Activate user-chatbot interaction
-    - setup_ann.py: Artificial Neural Network creation and training 
-    - setup_db.py: Database creation
+  - **data.json**: Database origin file
+  - **net_usage.py**: Activate user-chatbot interaction
+  - **setup_ann.py**: Artificial Neural Network creation and training 
+  - **setup_db.py**: Database creation
 
 ------------------------------------------------------------------------------------------------------
 
