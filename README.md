@@ -1,14 +1,8 @@
 # ChatbotAI
+Covid19 Chatbot based on Artificial Intelligence and Natural Language Processing
 
-README
 
-------------------------------------------------------------------------------------------------------
-
-• Covid19 Chatbot based on Artificial Intelligence and Natural Language Processing
-
-------------------------------------------------------------------------------------------------------
-
-• About the project:
+### About the project:
 
   The projects implements an automatic chatbot in italian language that answers user's question related to Covid and the pandemic. 
   It is based on the use of a neural network and a system of sentences obtained from the main scientific communication institutions 
@@ -30,7 +24,7 @@ README
 
 ------------------------------------------------------------------------------------------------------
 
-• Built with:
+### Built with:
 
     Python (pyttsx3 - Numpy)
     TensorFlow (TFLearn)
@@ -40,7 +34,7 @@ README
 
 ------------------------------------------------------------------------------------------------------
 
-• Project Folder:
+### Project Folder:
 
     - data.json: Database origin file
     - net_usage.py: Activate user-chatbot interaction
@@ -49,13 +43,13 @@ README
 
 ------------------------------------------------------------------------------------------------------
 
-• Getting started:
+### Getting started:
 
    Prerequisites: Python, SQLite
 
 ------------------------------------------------------------------------------------------------------
 
-• Installation:
+### Installation:
 
 1) Change directory in project folder and execute the following commands:
    
@@ -68,9 +62,9 @@ README
         pip install SpeechRecognition
         pip install pyttsx3
 
-2) Download PyAudio-0.2.11-cp37-cp37m-win_amd64.whl in the project folder
+2) Download *'PyAudio-0.2.11-cp37-cp37m-win_amd64.whl'* in the project folder
 
-3) Download PyAudio-0.2.11-cp36-cp36m-win_amd64.whl in the project folder
+3) Download *'PyAudio-0.2.11-cp36-cp36m-win_amd64.whl'* in the project folder
 
 4) In project folder and execute the following commands: 
    
@@ -86,8 +80,8 @@ README
      rete.index                 
      rete.meta   
 
-5) Execute command 'modello.load("./rete")' to load network in 'net_usage.py'    
+5) Execute command *'modello.load("./rete")'* to load network in *'net_usage.py'*    
 
-6) Execute command 'py net_usage.py' to start the application
+6) Execute command *'py net_usage.py'* to start the application
 
 7) Interrogate the chatbot with a voice input
