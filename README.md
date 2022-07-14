@@ -16,9 +16,9 @@ Covid19 Chatbot based on Artificial Intelligence and Natural Language Processing
 
   - **setup_ann**: Artificial Neural Network setup, creates and trains the neural network
 
-    1° method: processes the DB data and defines programme attributes
-    2° method: creates network training sets - X and Y arrays from natural language to numeric
-    3° method: definition and storage trained neural network (one input layer, two hidden layers and one output layer) for future reuse
+      - 1° method: processes the DB data and defines programme attributes
+      - 2° method: creates network training sets - X and Y arrays from natural language to numeric
+      - 3° method: definition and storage trained neural network (one input layer, two hidden layers and one output layer) for future reuse
 
   - **net_usage**: user interaction - classification of voice input
 
