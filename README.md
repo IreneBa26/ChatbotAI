@@ -1,5 +1,5 @@
 # ChatbotAI
-Covid19 Chatbot based on Artificial Intelligence and Natural Language Processing
+Covid19 Chatbot based on **Artificial Intelligence** and **Natural Language Processing**
 
 
 ### About the project:
